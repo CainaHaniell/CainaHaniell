@@ -13,7 +13,7 @@ Gosto de criar sites e estou sempre em busca de aprender mais sobre programaçã
 
 <h1>Redes sociais</h1>
 <div> 
-  <a href="https://www.linkedin.com/in/cain%C3%A3-haniel" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+  <a href="https://www.linkedin.com/in/cain%C3%A3-haniel" target="_blanck"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
 </div>
 
 <h1>🛠️ O que estou aprendendo atualmente:</h1>
