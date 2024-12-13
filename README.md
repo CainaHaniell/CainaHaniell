@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello guys 👋 Eu sou o Cainã Haniel!
+Sou estudante de HTML e CSS e estou dando meus primeiros passos no mundo do desenvolvimento web. Adoro criar sites e estou sempre em busca de aprender mais sobre programação e tecnologia. 🚀
 <!--
 **CainaHaniell/CainaHaniell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
