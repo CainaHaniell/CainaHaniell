@@ -2,8 +2,12 @@
 Sou estudante de HTML e CSS e estou dando meus primeiros passos no mundo do desenvolvimento web. <br>
 Gosto de criar sites e estou sempre em busca de aprender mais sobre programação e tecnologia. 🚀
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CainaHaniell&show_icons=true&theme=yeblu)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CainaHaniell&layout=compact&theme=yeblu)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CainaHaniell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CainaHaniell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
 
 <div style="display: inline_block"><br> <img align="center" alt="Caina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Caina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Caina-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
