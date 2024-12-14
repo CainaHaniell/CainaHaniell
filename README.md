@@ -44,7 +44,3 @@
 <p align="left">- Desenvolver projetos práticos para consolidar conhecimentos e experiências</p>
 
 ###
-
- ![snake gif](https://github.com/CainaHaniell/CainaHaniell/blob/output/github-contribution-grid-snake.gif)
-
-###
