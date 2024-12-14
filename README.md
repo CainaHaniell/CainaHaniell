@@ -45,6 +45,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/CainaHaniell/CainaHaniell/output/snake.svg" alt="Snake animation" />
+ ![snake gif](https://github.com/CainaHaniell/CainaHaniell/blob/output/github-contribution-grid-snake.gif)
 
 ###
