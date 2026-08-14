@@ -16,25 +16,6 @@
 
 ---
 
-## `> whoami`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    CAINÃ HANIElL // PROFILE                  ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  Role        : Developer in Progress                         ║
-║  Focus       : Backend Development                            ║
-║  Main Stack  : Python                                        ║
-║  Status      : Learning                                      ║
-║  Mission     : Build solid foundations before scaling        ║
-║                                                              ║
-║  [████████████████░░░░] Learning Mode                         ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
 
 # ⚡ Tech Stack
 
@@ -82,15 +63,15 @@ Calculadora desenvolvida durante os estudos de Python.
 * operadores matemáticos
 * validação de entrada
 
-[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-00ff9c?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/SEU_USERNAME)
+[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-00ff9c?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/CainaHaniell/Curso-Python/blob/main/Logica%20de%20Programa%C3%A7%C3%A3o/Ex14Calculadora.py)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧪 Python Exercises
+### 🧪 Python Curso
 
-Coleção de exercícios utilizados para desenvolver lógica de programação e fundamentos da linguagem.
+Coleção de aulas e exercícios utilizados para desenvolver lógica de programação e fundamentos da linguagem.
 
 **Foco:**
 
@@ -101,52 +82,11 @@ Coleção de exercícios utilizados para desenvolver lógica de programação e 
 * entrada de dados
 * tratamento de erros
 
-[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-00ff9c?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/SEU_USERNAME)
+[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-00ff9c?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/CainaHaniell/Curso-Python/tree/main/Logica%20de%20Programa%C3%A7%C3%A3o)
 
 </td>
 </tr>
 </table>
-
----
-
-# 🖥️ Current Mission
-
-```bash
-$ ./system_status.sh
-
-[BOOT] Cainã Haniell development system
-[ OK ] Python fundamentals
-[ OK ] Programming logic
-[ OK ] Git fundamentals
-[ OK ] Linux environment
-
-[RUN] Building backend foundations...
-
-> Current objectives:
-
-[01] Improve Python fundamentals
-[02] Solve programming problems
-[03] Build small practical projects
-[04] Learn databases
-[05] Understand APIs
-[06] Learn backend architecture
-[07] Build real-world applications
-
-SYSTEM STATUS: LEARNING
-MISSION STATUS: IN PROGRESS
-```
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/CainaHaniell/CainaHaniell/main/assets/github-analytics.svg"
-    width="100%"
-    alt="GitHub Analytics"
-  />
-</p>
 
 ---
 # 🔥 Contribution Streak
@@ -172,30 +112,6 @@ MISSION STATUS: IN PROGRESS
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/CainaHaniell/CainaHaniell/main/assets/github-trophies.svg"
-    width="100%"
-    alt="GitHub Trophies"
-  />
-</p>
----
-
-# 🐍 Contribution Protocol
-
-<p align="center">
-  <img
-  src="https://raw.githubusercontent.com/CainaHaniell/CainaHaniell/output/github-contribution-grid-snake-dark.svg"
-  alt="Snake animation"
-  width="100%"
-/>
-</p>
-
-
----
-
 # 🌐 Connect
 
 <p align="center">
@@ -214,21 +130,6 @@ MISSION STATUS: IN PROGRESS
 
 # `> system.log`
 
-```text
-[INFO] Developer profile loaded.
-[INFO] Python backend journey initialized.
-[INFO] Knowledge is being compiled...
-[INFO] Projects are being built...
-[INFO] Experience is increasing...
-
-┌──────────────────────────────────────────────┐
-│             KEEP BUILDING.                   │
-│             KEEP LEARNING.                   │
-│             KEEP IMPROVING.                  │
-└──────────────────────────────────────────────┘
-
-STATUS: ONLINE
-```
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:071a16,100:000000&height=120&section=footer" width="100%" />
