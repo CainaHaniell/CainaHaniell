@@ -142,13 +142,13 @@ MISSION STATUS: IN PROGRESS
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=CainaHaniell&show_icons=true&theme=transparent&hide_border=true&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api?username=CainaHaniell&show_icons=true&hide_border=true&theme=transparent"
     height="180"
     alt="GitHub Stats"
   />
-
+  
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CainaHaniell&layout=compact&theme=transparent&hide_border=true&title_color=00ff9c&text_color=ffffff&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CainaHaniell&layout=compact&hide_border=true&theme=transparent"
     height="180"
     alt="Top Languages"
   />
@@ -159,8 +159,8 @@ MISSION STATUS: IN PROGRESS
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=CainaHaniell&theme=dark&hide_border=true&background=00000000&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com/?user=CainaHaniell&theme=dark&hide_border=true"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
@@ -182,8 +182,7 @@ MISSION STATUS: IN PROGRESS
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=CainaHaniell&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1"
-    width="100%"
+    src="https://github-profile-trophy.vercel.app/?username=CainaHaniell"
     alt="GitHub Trophies"
   />
 </p>
