@@ -142,15 +142,9 @@ MISSION STATUS: IN PROGRESS
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=CainaHaniell&show_icons=true&hide_border=true&theme=transparent"
-    height="180"
-    alt="GitHub Stats"
-  />
-  
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CainaHaniell&layout=compact&hide_border=true&theme=transparent"
-    height="180"
-    alt="Top Languages"
+    src="https://raw.githubusercontent.com/CainaHaniell/CainaHaniell/main/assets/github-analytics.svg"
+    width="100%"
+    alt="GitHub Analytics"
   />
 </p>
 
@@ -182,11 +176,11 @@ MISSION STATUS: IN PROGRESS
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=CainaHaniell"
+    src="https://raw.githubusercontent.com/CainaHaniell/CainaHaniell/main/assets/github-trophies.svg"
+    width="100%"
     alt="GitHub Trophies"
   />
 </p>
-
 ---
 
 # 🐍 Contribution Protocol
